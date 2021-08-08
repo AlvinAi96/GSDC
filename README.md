@@ -1,7 +1,7 @@
 ### Google Smartphone Decimeter Challenge 
 ### Kaggle项目：谷歌手机定位挑战赛
 ``python gsdc.py``<br>
-Function: Execute all the postprocess.
+Function: Execute all the postprocesses.
 1. Position Shift<br>
 2. Stop Detection and Postprocess<br>
 3. Snap to Grid<br>
