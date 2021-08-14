@@ -1,5 +1,6 @@
 ### Google Smartphone Decimeter Challenge 
 ### Kaggle项目：谷歌手机定位挑战赛
+Thanks for the contribution of my teammates [@shaoeric](https://github.com/shaoeric) and [@Leonrain-Liu](https://github.com/Leonrain-Liu).<br>
 ![60th_solution_introduction](60th_solution_intro.png)
 
 ``python gsdc.py``<br>
